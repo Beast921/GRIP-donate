@@ -23,7 +23,7 @@ body {
 .content-box {
   width: 40vw;
   height: 60vh;
-  background-color: white;
+  background-color: rgb(253, 242, 252);
   opacity: 0.7;
   border-radius: 25px;
   text-align: center;
@@ -40,4 +40,5 @@ body {
 p {
   font-size: large;
   margin: 5vh 0vh;
+  color: black;
 }
