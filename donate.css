@@ -8,7 +8,7 @@
 }
 
 body {
-  background-image: url(/images/homebg.jpg);
+  background-image: url(/images/donate-bg.jpg);
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -21,10 +21,10 @@ body {
 }
 
 .content-box {
-  width: 40rem;
-  height: 28rem;
+  width: 50rem;
+  height: 35rem;
   background-color: rgb(253, 242, 252);
-  opacity: 0.8;
+  opacity: 0.9;
   border-radius: 25px;
   text-align: center;
   padding: 4rem;
@@ -32,13 +32,13 @@ body {
 
 .content-head {
   font-weight: bolder;
-  font-size: 3.4rem;
+  font-size: 3.5rem;
   color: rgb(237, 18, 171);
-  margin-bottom: 2rem;
+  margin-bottom: 4rem;
 }
 
 p {
   font-size: large;
-  margin: 1.7rem 0rem;
+  margin: 5rem 0rem;
   color: black;
 }
